@@ -1,2 +1,7 @@
 # watch-review-website
-Created with CodeSandbox
+
+Basic project on ReactJS.
+
+This is a watch rewiew/rating website
+
+Created with CodeSandbox.
